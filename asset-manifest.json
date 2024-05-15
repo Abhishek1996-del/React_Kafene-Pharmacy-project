@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_Kafene-Pharmacy-project/static/css/main.d8e41200.css",
+    "main.js": "/React_Kafene-Pharmacy-project/static/js/main.d8ff7103.js",
+    "static/js/453.afd89551.chunk.js": "/React_Kafene-Pharmacy-project/static/js/453.afd89551.chunk.js",
+    "index.html": "/React_Kafene-Pharmacy-project/index.html",
+    "main.d8e41200.css.map": "/React_Kafene-Pharmacy-project/static/css/main.d8e41200.css.map",
+    "main.d8ff7103.js.map": "/React_Kafene-Pharmacy-project/static/js/main.d8ff7103.js.map",
+    "453.afd89551.chunk.js.map": "/React_Kafene-Pharmacy-project/static/js/453.afd89551.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8e41200.css",
+    "static/js/main.d8ff7103.js"
+  ]
+}
